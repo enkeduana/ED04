@@ -7,6 +7,11 @@ public class Main {
         System.out.println("Hello, said Adele");
     }
 
+    /** Comentario de prueba.
+    *
+    *
+    */
+
     private static void operativa_cuenta(float cantidad) {
         Cuenta cuenta1;
         double saldoActual;
